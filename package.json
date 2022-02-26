@@ -1,0 +1,8 @@
+{
+  "name": "RabbitMQ_Kafka",
+  "version": "1.0.0",
+  "description": "Estudo sobre RabbitMQ e Kafka",
+  "main": "index.js",
+  "author": "Leandro Camargo",
+  "license": "MIT"
+}
